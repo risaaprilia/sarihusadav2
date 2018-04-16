@@ -1,0 +1,55 @@
+.arial-font{
+    font-family: "Arial Black","Arial Rounded MT Bold","Arial";
+}
+
+.clock_large{
+    font-family:"Arial Black","Arial Rounded MT Bold","Arial";
+    font-size: 22px;
+}
+
+.date_small{
+    font-family:"Arial","Arial Rounded MT Bold","Arial";
+    font-size: 18px;
+}
+
+.sidebutton_button{
+    list-style: none;
+
+}
+
+.btn-blue{
+    padding-top: 2em;
+    width: 9em;
+    background-color: #2B388F;
+    margin-top: 1em;
+    font-size: 12px;
+    font-family: "Arial Black";
+    color:#FFFFFF;
+    border-radius: 8px;
+}
+.active{
+    background: #00CC00;
+    color: #2aabd2;
+}
+button.btn:active{
+    background: #00CC00;
+    color: #2aabd2;
+  }
+
+/*belum berhasil*/
+.footer.blue_background{
+    background-color: #2b388f!important;
+    overflow: auto;
+}
+
+.padding_footer{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.p.white_font{
+    color: white!important;
+    overflow: auto;
+}
+/*End Of belum berhasil*/
+
