@@ -16,4 +16,6 @@
         jQuery("#my_styles .btn").removeClass('active');
         jQuery(this).toggleClass('active');
     });
+
+
 </script>
